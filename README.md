@@ -21,4 +21,4 @@ py obj2bb.py     [ModelFilePath] 0.4 0.1 99999999 100
 
 ## Credit(s):
 - [PublicDark](https://github.com/PublicDark) - Developer of Modified Script.
-- [Cracko298](https://github.com/Cracko298) - [obj2mcpe](https://github.com/PublicDark/Convert-Models-Into-Blockbench-Cubes) Developer.
+- [Cracko298](https://github.com/Cracko298) - [obj2mcpe](https://github.com/Cracko298/obj2mcpe) Developer.
