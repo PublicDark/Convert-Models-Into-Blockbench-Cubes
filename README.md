@@ -1,22 +1,24 @@
 # Convert-Models-Into-Blockbench-Cubes
-[.OBJ / .STL / .PLY] Converter for Minecraft: Java Edition { Based from Cracko298's Script :D }
+- A `*.obj, *.ply, *.ply` Converter.
+- Compatable with MCPE, Java Edition, and MC3DS.
 
-Usage: python obj2bb.py [ModelFilePath] [FACE_THICKNESS] [MIN_CUBE_SIZE] [MAX_CUBE_COUNT] [MAX_FACE_SIZE]
-
-
-# MY PREFERED SETTINGS FOR THE SCRIPT 
-
+## Usage:
+```
+                  String          Float            Float           Int              Float
+python obj2bb.py [ModelFilePath] [FACE_THICKNESS] [MIN_CUBE_SIZE] [MAX_CUBE_COUNT] [MAX_FACE_SIZE]
+py obj2bb.py     [ModelFilePath] [FACE_THICKNESS] [MIN_CUBE_SIZE] [MAX_CUBE_COUNT] [MAX_FACE_SIZE]
+```
+## Reccomended Setting(s)/Usage:
+```
 python obj2bb.py [ModelFilePath] 0.4 0.1 99999999 100
+py obj2bb.py     [ModelFilePath] 0.4 0.1 99999999 100
+```
+### .OBJ Converted By Cracko298's Script 
+<img width="770" height="425" alt="cracko" src="https://github.com/user-attachments/assets/d6ee05e3-b448-4289-bda8-c9d1970adfba" />
 
+### Same .OBJ Converted By obj2bb [ Cracko298's Modified Script ]
+<img width="852" height="428" alt="publicdark" src="https://github.com/user-attachments/assets/bd65636b-f3e9-4493-8f49-c729b7f54487" />
 
-
-
-
-
-
-# .OBJ Converted By Cracko298's Script 
-<img width="1538" height="851" alt="cracko&#39;s script" src="https://github.com/user-attachments/assets/f03d91bb-5e96-4b19-bfc0-7719789380b8" />
-
-# Same .OBJ Converted By obj2bb [ Cracko298's Modified Script ]
-<img width="2348" height="1180" alt="obj2bb script" src="https://github.com/user-attachments/assets/25b6b1a2-b8fd-4481-a32b-78bcdcc697ba" />
-
+## Credit(s):
+- [PublicDark](https://github.com/PublicDark) - Developer of Modified Script.
+- [Cracko298](https://github.com/Cracko298) - [obj2mcpe](https://github.com/Cracko298/obj2mcpe) Developer.
