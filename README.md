@@ -8,7 +8,7 @@
 python obj2bb.py [ModelFilePath] [FACE_THICKNESS] [MIN_CUBE_SIZE] [MAX_CUBE_COUNT] [MAX_FACE_SIZE]
 py obj2bb.py     [ModelFilePath] [FACE_THICKNESS] [MIN_CUBE_SIZE] [MAX_CUBE_COUNT] [MAX_FACE_SIZE]
 ```
-## Reccomended Setting(s):
+## Reccomended Setting(s)/Usage:
 ```
 python obj2bb.py [ModelFilePath] 0.4 0.1 99999999 100
 py obj2bb.py     [ModelFilePath] 0.4 0.1 99999999 100
@@ -18,3 +18,7 @@ py obj2bb.py     [ModelFilePath] 0.4 0.1 99999999 100
 
 ### Same .OBJ Converted By obj2bb [ Cracko298's Modified Script ]
 <img width="852" height="428" alt="publicdark" src="https://github.com/user-attachments/assets/bd65636b-f3e9-4493-8f49-c729b7f54487" />
+
+## Credit(s):
+- [PublicDark](https://github.com/PublicDark) - Developer of Modified Script.
+- [Cracko298](https://github.com/Cracko298) - [obj2mcpe](https://github.com/PublicDark/Convert-Models-Into-Blockbench-Cubes) Developer.
